@@ -1,3 +1,4 @@
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Chirag Varshney</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt = "Coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
