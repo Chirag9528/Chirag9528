@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag9528&label=Profile%20views&color=0e75b6&style=flat" alt="chirag9528" /> </p>
 
-- 🌱 I’m currently learning **DSA and Reactjs**
+- 🌱 I’m currently learning **DSA and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chirag9528](https://github.com/Chirag9528)
 
